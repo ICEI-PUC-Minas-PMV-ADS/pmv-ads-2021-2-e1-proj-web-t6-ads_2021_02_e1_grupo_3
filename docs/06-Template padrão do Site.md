@@ -32,7 +32,7 @@ Modal de Mensagens
 Este layout é um POP UP para exibição login/cadastro.
 
 
-<img src="./img/LoginCadastro.PNG">
+<img src="./img/LoginCadastro.png">
 
 > **Links Úteis**:
 >
