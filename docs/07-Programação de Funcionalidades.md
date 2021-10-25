@@ -6,16 +6,15 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-<img src="./img/LoginCadastro.png">
 
-Tela – Escolha do carreto
+<h1> Tela – Escolha do carreto </h1>
 Após realizar o login o usuário é redirecionado a tela onde ele irá escolher o tamanho do carreto, logo abaixo já informa o proprietário do caminho, telefone, cidade onde o motorista reside e avaliação do mesmo. Após o usuário aceitar o carreto ele é redirecionado para a tela de pagamento que veremos mais abaixo.
 
 <img src="./img/escolhaMotorista.png">
 Figura X – Escolha de carreto
 
 
-Tela – Cadastre-se
+<h1> Tela – Cadastre-se </h1>
 No menu superior tem a opção de cadastrar-se o usuário é redirecionado para uma página onde ele irá preencher os campos com as seguintes informações: E-mail, nome, número de celular e senha.
 
 <img src="./img/LoginCadastro.png">
@@ -23,14 +22,14 @@ No menu superior tem a opção de cadastrar-se o usuário é redirecionado para 
 Figura X – Cadastre-se
 
 
-Tela – Aluguel de caixas 01
+<h1> Tela – Aluguel de caixas 01 </h1>
 A tela de aluguel de caixa apresenta, no bloco de conteúdo, as vantagens de se alugar caixas resistentes para realizar a mudança e o preço acessível.
 
 <img src="./img/aluguelCaixas.png">
 
 Figura X – Descrição de aluguel de caixa
 
-Tela – Pagamento 
+<h1> Tela – Pagamento </h1>
 Assim que o usuário informa o pacote ou o carreto, ele é redirecionado para uma tela de pagamento onde ele tem a opção de pagar com cartão ou boleto.
 
 Figura X - Pagamento do aluguel das caixas e carreto
