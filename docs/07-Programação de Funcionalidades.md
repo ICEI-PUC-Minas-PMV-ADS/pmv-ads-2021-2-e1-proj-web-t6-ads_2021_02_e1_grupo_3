@@ -12,6 +12,7 @@ Tela – Escolha do carreto
 Após realizar o login o usuário é redirecionado a tela onde ele irá escolher o tamanho do carreto, logo abaixo já informa o proprietário do caminho, telefone, cidade onde o motorista reside e avaliação do mesmo. Após o usuário aceitar o carreto ele é redirecionado para a tela de pagamento que veremos mais abaixo.
 
 <img src="./img/escolhaMotorista.png">
+Figura X – Escolha de carreto
 
 
 > **Links Úteis**:
