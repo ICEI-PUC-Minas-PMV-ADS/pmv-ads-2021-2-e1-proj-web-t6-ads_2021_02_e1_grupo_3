@@ -11,9 +11,6 @@ Figura X – Estrutura padrão do site
 
 <img src="./img/template.png">
 
-Template - [Template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/docs/img/template.png)
-
-
 O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/src/index.html  e é composto pelos seguintes
 layouts:
 ● Tela principal
@@ -26,13 +23,8 @@ Tela que abrange todas as visualizações iniciais do site e mostra login/cadast
 
 <img src="./img/telaPrincipal.PNG">
 
-Tela Principal - [Tela Principal](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/docs/img/telaPrincipal.png)
-
 Modal de Mensagens
 Este layout é um POP UP para exibição login/cadastro.
-
-
-<img src="./img/LoginCadastro.png">
 
 > **Links Úteis**:
 >
