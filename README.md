@@ -21,7 +21,7 @@ A MuDE é uma plataforma que conecta motoristas credenciados e pessoas, que busc
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
