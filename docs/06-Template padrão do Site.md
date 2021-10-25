@@ -32,6 +32,8 @@ Modal de Mensagens
 Este layout é um POP UP para exibição login/cadastro.
 
 
+<img src="./img/LoginCadastro.PNG">
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
