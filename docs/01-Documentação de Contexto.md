@@ -1,46 +1,66 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A vida em sociedade oferece comodidades e oportunidades na vida das pessoas.
+Um desses requisitos é a questão da moradia. Ela facilita e organiza a rotina das pessoas para alcançar um estilo de vida mais saudável e equilibrado.
+
+A professora Maria Carolina Gomes da Universidade Federal de Goiás afirma em sua pesquisa divulgada em 2010 na Revista Exame: Os brasileiros têm dificuldade para encontrar imóveis que se adequem aos diferentes momentos de sua vida.
+Segundo o estudo, no país, as pessoas mudam de residência cerca de sete vezes.
+As razões normalmente são trabalho, estudo, casamento e nascimento dos filhos.
+
+A tecnologia está presente em 100% do nosso dia e na hora de transportar seus pertences, porque não usá-la ao seu favor? Diante disso surgiu a necessidade de desenvolver um aplicativo que fizesse sua mudança seja de bairro, cidade ou até mesmo estado. Quem procura por este tipo de serviço quer contar, automaticamente, com a ajuda do motorista e de um assistente extra durante o serviço.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Diante da exposição acima, os principais problemas identificados são: necessidade de padrões para precificação do serviço, localização ágil de prestadores de serviços e clientes, esclarecimentos sobre a contratação do serviço e normas de segurança que indiquem a realização regular da atividade, o acesso em tempo real ao trajeto realizado, avaliação do serviço e acesso ao histórico de contratações.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Desenvolver uma aplicação web de fácil uso e que permita ao usuário escolher o tipo de veículo, seja uma moto, utilitário ou carreto.
+Como objetivos específicos, podemos ressaltar:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+● Fornecer a busca do serviço a partir da informação de origem/destino;
+
+● A partir da estimativa de bens a ser transportado, selecionar o perfil do veículo do transporte;
+
+● Utilização de mapas para localização de prestadores de serviços e ofertas de mudanças;
+
+● Formulários para publicação de fretes;
+
+● Mecanismo de seleção e pesquisa de fretes ou prestadores de serviços;
+
+● Mecanismo para simular ou calcular o valor médio do frete;
+
+● Seção com orientações tutoriais sobre mudanças, avaliação de preço e riscos;
+
+● Formas de pagamento;
+
+● Rastreio em tempo real;
+
+● Na necessidade, permitir selecionar o número de ajudantes;
+
+● Motoristas cadastrados próximos da área;
+
+● Chat interativo, onde a pessoa consegue se comunicar com o prestador de serviço antes mesmo de marcar sua mudança;
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O transporte de pequenas cargas é fiscalizado pela Agência Nacional de Transportes Terrestres (ANTT).
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Há normas específicas para alguns tipos de carga, o profissional precisa ser habilitado para o transporte, há riscos jurídicos caso ocorra o transporte de algo ilícito ou sem comprovação de origem. A legislação possui muitos detalhes que a maioria dos usuários não está ciente ou mesmo compreende. Assim, a aplicação a ser desenvolvida pode delimitar os riscos através de critérios para a utilização da plataforma e serviço de monitoramento para garantir a realização regular da atividade.
+Por outro lado, o prestador de serviço, principalmente autônomo, pode se beneficiar de uma plataforma online para divulgação e seleção de negócios.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Não há necessidade de conhecimentos de informática ou desenvolvimento de aplicações particulares. Por fim, o usuário se beneficia deste modelo ao localizar motoristas disponíveis em tempo real, avaliar o preço do frete através de simulação, se informar sobre os riscos do negócio e regularidade do prestador de serviço.
+
+Em geral, uma mudança é planejada com antecedência, porém, imprevistos acontecem e o acesso ao serviço de forma rápida, segura e ágil é um diferencial para os profissionais do setor e potenciais clientes. Assim, esta é uma oportunidade a ser explorada.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Qualquer pessoa pode se beneficiar das funcionalidades da aplicação, o foco está em famílias e pessoas que fazem constantes mudanças seja de cidade ou estado.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Desta forma, estabeleceu-se como público alvo desta solução os homens e mulheres entre 18 a 60 anos.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Pessoas que encontram em oportunidades de trabalho, de estudo, com o aumento da família um novo ambiente e tem dificuldades em organizar uma mudança sozinhos.
+
+Todas as pessoas são potenciais clientes, porém, alguns grupos se destacam:
+
+Pequenos comércios, lojas, são mais propensas a mudanças comerciais e incluem o transporte de móveis de escritório, equipamentos de refrigeração, maquinários de pequeno porte, balcões, etc. As mudanças residenciais ocorrem com menor frequência e envolvem pessoas em geral de 25 a 60 anos. Os profissionais são empresas e trabalhadores autônomos entre 21 e 60 anos.
