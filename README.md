@@ -8,7 +8,7 @@
 
 A MuDE é uma plataforma que conecta motoristas credenciados e pessoas, que buscam segurança, praticidade e rapidez para sua mudança.
 
-<img src="./src/images/mude.png">
+<img src="./src/images/logo.png">
 
 ## Integrantes
 
