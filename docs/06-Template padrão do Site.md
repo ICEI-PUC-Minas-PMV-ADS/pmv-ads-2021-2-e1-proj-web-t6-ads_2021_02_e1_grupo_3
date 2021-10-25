@@ -12,6 +12,18 @@ Figura X – Estrutura padrão do site
 Template - [Template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/docs/img/template.png)
 
 
+O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/src/index.html  e é composto pelos seguintes
+layouts:
+● Tela principal
+● Pop up de login/cadastro
+● Filtro/pesquisa permitindo ao usuário localizar o motorista mais próximo.
+ 
+A responsividade segue o padrão do Bootstrap
+Tela Principal
+Tela que abrange todas as visualizações iniciais do site e mostra login/cadastro, como contratar um motorista ou se cadastrar para ser um carreto.
+
+
+
 
 > **Links Úteis**:
 >
