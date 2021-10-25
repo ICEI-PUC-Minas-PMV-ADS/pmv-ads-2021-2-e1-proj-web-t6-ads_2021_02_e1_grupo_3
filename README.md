@@ -6,14 +6,18 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A MuDE é uma plataforma que conecta motoristas credenciados e pessoas, que buscam segurança, praticidade e rapidez para sua mudança.
+
+<img src="./src/images/mude.png">
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Augusto Hiroshi Santos Inanobe
+* Carlos Augusto Rangel Ramos
+* Luiz Carlos Freitas Grillo
+* Naiara Julieta Maria Carvalho Mafra
+* Peter Helder Silva Santos
+* Tatiane Bernadete Ribeiro
 
 ## Orientador
 
