@@ -41,6 +41,7 @@ O github tem sido a base para a entrega geral das etapas, é nele que controlamo
 A gestão de código fonte tem como base os exemplos dados no modelo de projeto disponibilizado pela PUC Minas. 
 A cada etapa do projeto é feito uma versão, mostrada no gráfico abaixo como v1, v2, v3 e v4 com relação a master. O Hotfix cuidará das atualizações do programa, sendo necessário usar apenas uma vez. A Release tem como objetivo relatar o que foi feito durante todo o projeto, para poder documentar  de forma técnica. Os Develops serão separados por grupo para com relação às etapas com relação ao grau de dificuldade. Com as Features podemos voltar para rever as novas reais necessidade após a implementação.  
 
+
 <img scr="./img/gestaoCodigoFonte.png">
 
 
