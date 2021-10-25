@@ -15,6 +15,29 @@ Após realizar o login o usuário é redirecionado a tela onde ele irá escolher
 Figura X – Escolha de carreto
 
 
+Tela – Cadastre-se
+No menu superior tem a opção de cadastrar-se o usuário é redirecionado para uma página onde ele irá preencher os campos com as seguintes informações: E-mail, nome, número de celular e senha.
+
+<img src="./img/LoginCadastro.png">
+
+Figura X – Cadastre-se
+
+
+Tela – Aluguel de caixas 01
+A tela de aluguel de caixa apresenta, no bloco de conteúdo, as vantagens de se alugar caixas resistentes para realizar a mudança e o preço acessível.
+
+<img src="./img/aluguelCaixas.png">
+
+Figura X – Descrição de aluguel de caixa
+
+Tela – Pagamento 
+Assim que o usuário informa o pacote ou o carreto, ele é redirecionado para uma tela de pagamento onde ele tem a opção de pagar com cartão ou boleto.
+
+Figura X - Pagamento do aluguel das caixas e carreto
+<img src="./img/meioPagamento.png">
+Figura X - Pagamento do aluguel das caixas e carreto
+
+
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
