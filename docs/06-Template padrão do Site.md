@@ -22,7 +22,10 @@ A responsividade segue o padrão do Bootstrap
 Tela Principal
 Tela que abrange todas as visualizações iniciais do site e mostra login/cadastro, como contratar um motorista ou se cadastrar para ser um carreto.
 
+Tela Principal - [Tela Principal](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/docs/img/telaPrincipal.png)
 
+Modal de Mensagens
+Este layout é um POP UP para exibição login/cadastro.
 
 
 > **Links Úteis**:
