@@ -38,6 +38,7 @@ Figura X - Pagamento do aluguel das caixas e carreto
 Figura X - Pagamento do aluguel das caixas e carreto
 
 
+
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
