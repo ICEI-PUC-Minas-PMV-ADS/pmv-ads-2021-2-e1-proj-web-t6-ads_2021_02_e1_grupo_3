@@ -9,8 +9,8 @@ O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de
 
 Figura X – Estrutura padrão do site
 
-Template - [Template](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-<link href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/docs/img/template.png" />
+Template - [Template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t6-ads_2021_02_e1_grupo_3/blob/main/docs/img/template.png)
+
 
 
 > **Links Úteis**:
