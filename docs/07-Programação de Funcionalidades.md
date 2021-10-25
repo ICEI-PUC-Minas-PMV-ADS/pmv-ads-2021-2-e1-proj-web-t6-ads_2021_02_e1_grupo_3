@@ -6,6 +6,14 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
+<img src="./img/LoginCadastro.png">
+
+Tela – Escolha do carreto
+Após realizar o login o usuário é redirecionado a tela onde ele irá escolher o tamanho do carreto, logo abaixo já informa o proprietário do caminho, telefone, cidade onde o motorista reside e avaliação do mesmo. Após o usuário aceitar o carreto ele é redirecionado para a tela de pagamento que veremos mais abaixo.
+
+<img src="./img/escolhaMotorista.png">
+
+
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
