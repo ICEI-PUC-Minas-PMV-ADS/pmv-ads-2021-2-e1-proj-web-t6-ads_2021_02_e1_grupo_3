@@ -1,12 +1,21 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+Os resultados obtidos nos testes de software realizados são descritos abaixo.
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+<img src="../../../Downloads/f.png">
 
-## Avaliação
+RF-01 e RF-02
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+### Tela de Login
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+O usuário escreve o e-mail já cadastrado na aplicação no campo “Seu e-mail”
+O usuário preenche o campo de “Sua senha”  
+O usuário tem a opção de manter-se conectado ou não na sua conta clicando ou não no marcador “Manter-me conectado”
+O usuário por fim clica no botão “logar” para ter acesso à aplicação
+
+### Tela de Cadastro
+
+O usuário preenche o campo “Seu nome” com um nome válido
+O usuário preenche o campo “Seu e-mail” com um email válido
+O usuário preenche o campo “Sua senha” com uma senha válida
+O usuário por fim clica no botão “cadastrar” para criar um perfil
