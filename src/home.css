@@ -3,11 +3,61 @@
   padding: 0;
 }
 
-#button {
-  height: 20px;
-  margin: 20px;
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-top: 20px;
 }
 
-.img-homem {
-  margin-left: 60px;
+.title {
+  position: absolute;
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  top: 280px;
+  width: 600px;
+  height: 30px;
+  margin-left: 70px;
+}
+
+.logo {
+  height: 45px;
+  margin-left: 20px;
+}
+
+.buttons-header {
+  justify-content: space-between;
+  margin-left: 1500px;
+}
+
+.login {
+  height: 30px;
+  width: 90px;
+  border-radius: 20px;
+  border-style: double;
+  border-color: white;
+  color: white;
+  background-color: transparent;
+}
+
+.cadastre {
+  height: 30px;
+  width: 110px;
+  border-radius: 20px;
+  border-style: double;
+  border-color: white;
+  color: white;
+  background-color: transparent;
+}
+
+.img-background-geral {
+  margin-top: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.footer {
+  margin-left: 700px;
 }
